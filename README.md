@@ -4,7 +4,7 @@ Welcome to the **Image Gallery** project! This repository is a simple and elegan
 
 ---
 
-Checkout the project: [Link](link.com)
+Checkout the project: [Link](https://image-gallery-chi-red.vercel.app/)
 
 ---
 
